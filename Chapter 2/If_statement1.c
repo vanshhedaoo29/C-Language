@@ -6,6 +6,5 @@ int main(){
     {
         printf("i is greater than 15");
     }
-    printf("I am not in if block")
     return 0;
 }
