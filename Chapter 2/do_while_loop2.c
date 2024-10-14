@@ -4,6 +4,12 @@
 
 int main()
 {
-    
+    int i = 100;
+    do
+    {
+        printf("%d \n", i );
+        i--;
+    }
+    while(i<=100);
     return 0;
 }
