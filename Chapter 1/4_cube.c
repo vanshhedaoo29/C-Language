@@ -5,7 +5,7 @@
 int main()
 {
     int a;
-    a = cube(5);
+    a = cube(4);
     printf("Cube of 5 = %d",a);
     return 0;
 }
